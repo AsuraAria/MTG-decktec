@@ -1,0 +1,27 @@
+1 Baton of Morale
+24 Plains
+1 Seraph
+4 Woolly Razorback
+4 Arctic Foxes
+4 Order of the White Shield
+4 Sworn Defender
+2 Field Marshal
+2 Kjeldoran Escort
+1 Kjeldoran Phalanx
+1 Kjeldoran Skycaptain
+4 Shield Bearer
+2 Disenchant
+2 Reprisal
+1 Thrumming Stone
+2 Dark Depths
+1 Adarkar Valkyrie
+SB: 2 Circle of Protection: Black
+SB: 2 Circle of Protection: Blue
+SB: 2 Circle of Protection: Green
+SB: 2 Circle of Protection: Red
+SB: 2 Circle of Protection: White
+SB: 1 Black Scarab
+SB: 1 Blue Scarab
+SB: 1 Green Scarab
+SB: 1 Red Scarab
+SB: 1 White Scarab
