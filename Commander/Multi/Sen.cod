@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Darksteel Forge"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Empowered Autogenerator"/>
+        <card number="1" name="Eternity Vessel"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="1" name="Grim Monolith"/>
+        <card number="1" name="Mycosynth Lattice"/>
+        <card number="1" name="Norn's Annex"/>
+        <card number="1" name="Obelisk of Esper"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Temple Bell"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Unwinding Clock"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Winter Orb"/>
+        <card number="1" name="Platinum Angel"/>
+        <card number="1" name="Mycosynth Golem"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Etherium Sculptor"/>
+        <card number="1" name="Ethersworn Adjudicator"/>
+        <card number="1" name="Ancient Den"/>
+        <card number="1" name="Darksteel Citadel"/>
+        <card number="1" name="Seat of the Synod"/>
+        <card number="1" name="Vault of Whispers"/>
+        <card number="4" name="Island"/>
+        <card number="3" name="Plains"/>
+        <card number="3" name="Swamp"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Spark Double"/>
+        <card number="1" name="Thief of Sanity"/>
+        <card number="1" name="Chief Engineer"/>
+        <card number="1" name="Vedalken Archmage"/>
+        <card number="1" name="As Foretold"/>
+        <card number="1" name="Dissipation Field"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Land Tax"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Mind's Dilation"/>
+        <card number="1" name="Mirrormade"/>
+        <card number="1" name="Omniscience"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Shark Typhoon"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Sphere of Safety"/>
+        <card number="1" name="Control Magic"/>
+        <card number="1" name="Corrupted Conscience"/>
+        <card number="1" name="Mind Control"/>
+        <card number="1" name="Paradox Haze"/>
+        <card number="1" name="Treachery"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Mana Drain"/>
+        <card number="1" name="Narset's Reversal"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Esper Panorama"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Bolas's Citadel"/>
+        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="Memnarch"/>
+        <card number="1" name="Grand Arbiter Augustin IV"/>
+        <card number="1" name="Empress Galina"/>
+        <card number="1" name="Academy Ruins"/>
+        <card number="1" name="Hall of Heliod's Generosity"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="1" name="Tezzeret the Seeker"/>
+        <card number="1" name="Bribery"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Mass Manipulation"/>
+        <card number="1" name="Rite of Replication"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Sen Triplets"/>
+    </zone>
+</cockatrice_deck>

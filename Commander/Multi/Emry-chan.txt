@@ -1,0 +1,75 @@
+1 Academy Ruins
+1 All Is Dust
+1 Arcane Signet
+1 Blightsteel Colossus
+1 Chief Engineer
+1 Chief of the Foundry
+1 Cloud Key
+1 Colossus of Akros
+1 Corridor Monitor
+1 Counterspell
+1 Darksteel Citadel
+1 Darksteel Colossus
+1 Darksteel Forge
+1 Dramatic Reversal
+1 Efficient Construction
+1 Etherium Sculptor
+1 Everflowing Chalice
+1 Fabled Passage
+1 Forsaken Monument
+1 Foundry Inspector
+1 Frozen Aether
+1 Future Sight
+1 Grand Architect
+1 Intruder Alarm
+26 Island
+1 Lotus Petal
+1 Maelstrom Colossus
+1 Master Transmuter
+1 Mazemind Tome
+1 Mechanized Production
+1 Memnite
+1 Metalwork Colossus
+1 Midnight Clock
+1 Mirran Spy
+1 Mirrormade
+1 Mishra's Bauble
+1 Mox Tantalite
+1 Mycosynth Lattice
+1 Myriad Landscape
+1 Mystic Forge
+1 Narset's Reversal
+1 Negate
+1 Opt
+1 Ornithopter
+1 Padeem, Consul of Innovation
+1 Phyrexian Metamorph
+1 Phyrexian Walker
+1 Pili-Pala
+1 Power Artifact
+1 Prismatic Vista
+1 Reshape
+1 Rhystic Study
+1 Rings of Brighthearth
+1 Seat of the Synod
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spellskite
+1 Staff of Domination
+1 Steel Hellkite
+1 Steel Overseer
+1 Stonecoil Serpent
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sword of the Animist
+1 Tale's End
+1 Tezzeret the Seeker
+1 Tezzeret, Artifice Master
+1 Traxos, Scourge of Kroog
+1 Unwinding Clock
+1 Vedalken Archmage
+1 Vedalken Orrery
+1 Walking Ballista
+1 Wayfarer's Bauble
+1 Wurmcoil Engine
+SB: 1 Emry, Lurker of the Loch

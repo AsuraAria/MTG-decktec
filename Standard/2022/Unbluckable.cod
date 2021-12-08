@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Cosmos Elixir"/>
+        <card number="4" name="Fly"/>
+        <card number="4" name="Guild Thief"/>
+        <card number="20" name="Island"/>
+        <card number="2" name="Iymrith, Desert Doom"/>
+        <card number="2" name="Lullmage's Domination"/>
+        <card number="4" name="Negate"/>
+        <card number="4" name="Ray of Frost"/>
+        <card number="2" name="Saw It Coming"/>
+        <card number="4" name="Soulknife Spy"/>
+        <card number="4" name="Tasha's Hideous Laughter"/>
+        <card number="2" name="Test of Talents"/>
+        <card number="2" name="Grazilaxx, Illithid Scholar"/>
+        <card number="4" name="Secret Door"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Saw It Coming"/>
+    </zone>
+</cockatrice_deck>

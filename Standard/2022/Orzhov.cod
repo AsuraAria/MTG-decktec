@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="The Meathook Massacre"/>
+        <card number="10" name="Swamp"/>
+        <card number="2" name="Drana, the Last Bloodchief"/>
+        <card number="2" name="Lolth, Spider Queen"/>
+        <card number="2" name="Tainted Adversary"/>
+        <card number="2" name="Intrepid Adversary"/>
+        <card number="10" name="Plains"/>
+        <card number="2" name="Silverquill Command"/>
+        <card number="2" name="Doomskar"/>
+        <card number="4" name="Jadar, Ghoulcaller of Nephalia"/>
+        <card number="2" name="Curse of Leeches"/>
+        <card number="2" name="Can't Stay Away"/>
+        <card number="2" name="Bloodchief's Thirst"/>
+        <card number="2" name="Closing Statement"/>
+        <card number="2" name="Priest of Ancient Lore"/>
+        <card number="4" name="Brightclimb Pathway"/>
+        <card number="2" name="Teleportation Circle"/>
+        <card number="2" name="Ambitious Farmhand"/>
+        <card number="4" name="Rite of Oblivion"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Ambitious Farmhand"/>
+        <card number="2" name="Curse of Leeches"/>
+    </zone>
+</cockatrice_deck>

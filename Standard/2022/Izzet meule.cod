@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Battle of Frost and Fire"/>
+        <card number="4" name="Behold the Multiverse"/>
+        <card number="4" name="Dual Strike"/>
+        <card number="4" name="Frost Bite"/>
+        <card number="4" name="Maddening Cacophony"/>
+        <card number="2" name="Rowan, Scholar of Sparks"/>
+        <card number="4" name="Ruin Crab"/>
+        <card number="4" name="Saw It Coming"/>
+        <card number="9" name="Snow-Covered Island"/>
+        <card number="7" name="Snow-Covered Mountain"/>
+        <card number="4" name="Tasha's Hideous Laughter"/>
+        <card number="2" name="Teach by Example"/>
+        <card number="4" name="Riverglide Pathway"/>
+        <card number="4" name="Frostboil Snarl"/>
+    </zone>
+</cockatrice_deck>

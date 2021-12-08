@@ -1,0 +1,75 @@
+1 Arcane Signet
+1 Chromatic Lantern
+1 Dragon's Hoard
+1 Orb of Dragonkind
+1 Skyclave Relic
+1 Sol Ring
+1 Argentum Armor
+1 Lightning Greaves
+1 Vorpal Sword
+6 Forest
+6 Island
+6 Mountain
+6 Plains
+6 Swamp
+1 Chaos Dragon
+1 Dream Pillager
+1 Hoard-Smelter Dragon
+1 Savage Ventmaw
+1 Scourge of Valkas
+1 Skyline Despot
+1 Thunderbreak Regent
+1 Dragon Turtle
+1 Froghemoth
+1 Colossal Majesty
+1 Land Tax
+1 Outpost Siege
+1 Propaganda
+1 Rhystic Study
+1 Smothering Tithe
+1 Sunbird's Invocation
+1 Abundant Growth
+1 Fertile Ground
+1 Utopia Sprawl
+1 Wild Growth
+1 Curse of Verbosity
+1 Maddening Hex
+1 Bituminous Blast
+1 Chaos Warp
+1 Counterspell
+1 Despark
+1 Dragon's Fire
+1 Growth Spiral
+1 Hurl Through Hell
+1 Magmaquake
+1 Power Word Kill
+1 Revivify
+1 Spit Flame
+1 Command Tower
+1 Crucible of the Spirit Dragon
+1 Exotic Orchard
+1 Path of Ancestry
+1 Canopy Vista
+1 Sunken Hollow
+1 Cinder Glade
+1 Prairie Stream
+1 Smoldering Marsh
+1 Chromatic Orrery
+1 Xanathar, Guild Kingpin
+1 The Tarrasque
+1 Atarka, World Render
+1 Icingdeath, Frost Tyrant
+1 Inferno of the Star Mounts
+1 Iymrith, Desert Doom
+1 Klauth, Unrivaled Ancient
+1 Old Gnawbone
+1 Storvald, Frost Giant Jarl
+1 Grazilaxx, Illithid Scholar
+1 Ebondeath, Dracolich
+1 Lolth, Spider Queen
+1 Zariel, Archduke of Avernus
+1 Demogorgon's Clutches
+1 Fevered Suspicion
+1 Reshape the Earth
+1 Unexpected Results
+SB: 1 Tiamat

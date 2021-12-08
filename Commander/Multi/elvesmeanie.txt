@@ -1,0 +1,80 @@
+1 Arcane Signet
+1 Dolmen Gate
+1 Golgari Signet
+1 Lifecrafter's Bestiary
+1 Sol Ring
+1 Grafted Exoskeleton
+1 Lightning Greaves
+1 Sword of Truth and Justice
+1 Blightsteel Colossus
+11 Forest
+11 Swamp
+1 Birds of Paradise
+1 Jagged-Scar Archers
+1 Poison-Tip Archer
+1 Beast Whisperer
+1 Elvish Archdruid
+1 Elvish Mystic
+1 Evolution Sage
+1 Llanowar Elves
+1 Priest of Titania
+1 Steel Leaf Champion
+1 Reclamation Sage
+1 Viridian Corrupter
+1 Canopy Tactician
+1 Glistener Elf
+1 Imperious Perfect
+1 Tel-Jilad Fallen
+1 Viridian Betrayers
+1 Wolverine Riders
+1 Realmwalker
+1 Seedborn Muse
+1 Elderfang Venom
+1 Moldervine Reclamation
+1 Sylvan Library
+1 Phyresis
+1 Snake Cult Initiation
+1 Utopia Sprawl
+1 Wild Growth
+1 Archetype of Finality
+1 Avoid Fate
+1 Invigorate
+1 Once Upon a Time
+1 Putrefy
+1 Tainted Strike
+1 Worldly Tutor
+1 Command Tower
+1 Fabled Passage
+1 Gilt-Leaf Palace
+1 Karn's Bastion
+1 Myriad Landscape
+1 Path of Ancestry
+1 Prismatic Vista
+1 Rogue's Passage
+1 Wasteland
+1 Wirewood Lodge
+1 Woodland Cemetery
+1 Overgrown Tomb
+1 Darkbore Pathway
+1 The Great Henge
+1 Marwyn, the Nurturer
+1 Abomination of Llanowar
+1 Lathril, Blade of the Elves
+1 Nissa, Vastwood Seer
+1 Yeva, Nature's Herald
+1 Dwynen, Gilt-Leaf Daen
+1 Fynn, the Fangbearer
+1 Glissa, the Traitor
+1 Journey to Eternity
+1 Freyalise, Llanowar's Fury
+1 Tyvar Kell
+1 Bounty of Skemfar
+1 Casualties of War
+1 Eyeblight Massacre
+1 Genesis Wave
+1 Green Sun's Zenith
+1 Harvest Season
+1 Triumph of the Hordes
+1 Prowess of the Fair
+SB: 1 Miara, Thorn of the Glade
+SB: 1 Halana, Kessig Ranger
